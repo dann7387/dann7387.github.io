@@ -4,7 +4,8 @@
 {% include minimal.head.html %}
 
 <body>
-{% include minimal.header.html %}
+{% capture header %}{% include minimal.header.html%}{% endcapture%}
+{{header | markdownify}}
 
 {{ content }}
 
