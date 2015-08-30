@@ -1,8 +1,6 @@
 ---
 title: Danny Cheung
-layout: minimal
 ---
-# {{page.title}}
 
 <ul>
 {% for p in site.pages %}

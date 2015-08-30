@@ -1,10 +1,7 @@
 ---
 title: Docker Cheat Sheet
 author: Danny Cheung
-layout: minimal
 ---
-
-# {{page.title}}
 
 | Command | Description |
 | ------- | - |
