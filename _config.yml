@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "minimal"
+      gravatar: "http://2.gravatar.com/avatar/beaebff88fdfdfb5f3f5ee1271ff7bc7"
