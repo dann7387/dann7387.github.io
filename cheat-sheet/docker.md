@@ -1,6 +1,9 @@
 ---
 title: Docker Cheat Sheet
 author: Danny Cheung
+tags:
+  - docker
+  - cheat sheet
 ---
 
 | Command | Description |
