@@ -3,10 +3,10 @@ title: Danny Cheung
 index_tags:
   - cheat sheet
   - docker
-  - vagrant
+  - jekyll
   - python
   - ruby
-  - jekyll
+  - vagrant
 ---
 
 {% for t in page.index_tags %}
