@@ -8,7 +8,8 @@ tags:
 
 # Basic Vagrantfile
 
-```
+
+{% highlight ruby %}
 # Need to specify that we are using Varant v2
 VAGRANTFILE_API_VERSION = '2'
 
@@ -26,5 +27,5 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     vb.cpus = 1
   end
 end
-```
+{% endhighlight %}
 
