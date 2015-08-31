@@ -29,3 +29,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 end
 {% endhighlight %}
 
+# Include config from another file
+
+{% highlight ruby %}
+load '<External_File>'
+{% endhighlight %}
+
