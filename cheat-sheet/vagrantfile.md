@@ -6,9 +6,6 @@ tags:
   - cheat sheet
 ---
 
-# Basic Vagrantfile
-
-
 {% capture basic_vagrantfile %}{% highlight ruby %}
 # Need to specify that we are using Varant v2
 VAGRANTFILE_API_VERSION = '2'
@@ -30,7 +27,7 @@ end
 {% endhighlight %}
 {% endcapture %}
 
-{{ basic_vagrantfile | markdownify }}
+| {{ basic_vagrantfile | markdownify }} | Basic Vagrantfile |
 
 # Include config from another file
 
