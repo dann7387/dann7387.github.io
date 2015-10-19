@@ -5,3 +5,13 @@ defaults:
     values:
       layout: "minimal"
       gravatar: "http://2.gravatar.com/avatar/beaebff88fdfdfb5f3f5ee1271ff7bc7"
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
